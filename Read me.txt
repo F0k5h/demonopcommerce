@@ -1,0 +1,11 @@
+1st feature contains only one scenario to verify that user could signup with valid account
+2nd feature contains two scenarios one to login with valid email and password
+                                the other to login with invalid email and password
+3rd feature contains only one scenario to select Euro currency from the dropdown list on the top left of home page and verify the change
+4th feature contains two scenarios using Scenario outline one to search using product name
+                                                         the other to search for product using sku
+5th feature contains only one scenario to hover on a random main categories and if it contains sub categories click on a random one then verify that the opened page contains category name
+6th feature contains two scenarios to click on the two sliders in the home page              "this feature will fail since the site got updated"
+7th feature contains four scenarios to click on the "follow us" links                        "the 3rd scenario will fail since the rss link sends you to a wrong website"
+8th feature contains two scenarios one to add a product to the wish list and verify the message
+                                  the other is to go to wish list page and verify that the product was added
